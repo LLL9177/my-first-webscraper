@@ -5,7 +5,7 @@ Feel free to add any comment, maybe push something from yourself (with explanati
 
 ### What is the point?
 
-This website is scraping all the monitors from rozetka.ua.
+This scraper collects monitor listings from Rozetka.
 I liked that the site's html has a lot of straight-forward stuff. It has classes that are human readable, custom elements, and test ids. So I didn't face anything difficult.
 I didn't even have to send requests to backend to recieve some data. All the important stuff was in the html document.
 
