@@ -44,10 +44,11 @@ pip install -r requirements.txt
 
 *Fourth step: Actual usage*
 
-There are 2 cli arguments:
+There are 3 cli arguments:
 
 1. Pages amount: How many pages of search you want to scrape (default is 10)
-2. Clear csv [yes or no]: Wether you want to clear the products.csv file before putting anything into it (default is "no")
+2. Clear output file [yes or no]: Wether you want to clear the file before putting anything into it (default is "no")
+3. File mode [json or csv]: What file you want to export the data into
 
 ## Features
 
