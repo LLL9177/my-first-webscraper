@@ -61,10 +61,10 @@ There are 2 cli arguments:
 ## AI
 
 I'm using Gemini here. You can put whatever gemini model you wish (see .env.example).
-I actually did it for my Fiverr gig. But now I'm thinking of actually using this program because I can change the url whenever I want
+I actually did it for my Fiverr gig. But now I'm thinking of using this program because I can change the url whenever I want
 
 The system prompt lays in system_prompt.txt. So you can tweak if or create your own easily.
-The developer prompt is just `Here's the data: ...`. It's in the function `llm_session` if you with to change it.
+The developer prompt is just `Here's the data: ...`. It's in the function `llm_session` if you wish to change it.
 
 ## How it could be improved
 
