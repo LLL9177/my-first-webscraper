@@ -2,11 +2,15 @@ import requests
 import sys
 import json
 import csv
+import os
 from selectolax.parser import HTMLParser
 from tqdm import tqdm
 from urllib.parse import urljoin
 from dataclasses import asdict, dataclass, fields
+from google import genai
+from dotenv import load_dotenv
 
+load_dotenv()
 
 @dataclass
 class Item:
@@ -116,9 +120,34 @@ def export_to_json(products):
         json.dump(list(map(lambda product: asdict(product), products)),
                   f, indent=2, ensure_ascii=False)
 
+def append_to_json(product):
+    product_name = asdict(product)["name"]
+    if len(product_name) > 20:
+        product_name = product_name[:20] + "..."
+    
+    tqdm.write(f"Writing {product_name} into data.json...")
+    data = []
+    with open("data.json", "r", encoding="utf-8") as f:
+        content = f.read()
+        try:
+            if content.strip() != "":
+                data = json.loads(content)
+        except Exception as e:
+            tqdm.write(str(e))
+            return 1
+
+    data.append(asdict(product))
+
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+        
+
 def append_to_csv(product):
-    tqdm.write(str(asdict(product)))
-    tqdm.write(f"Writing {asdict(product)["name"]} into products.csv...")
+    product_name = asdict(product)["name"]
+    if len(product_name) > 20:
+        product_name = product_name[:20] + "..."
+
+    tqdm.write(f"Writing {product_name} into products.csv...")
     field_names = [field.name for field in fields(Item)]
     write_header = False
 
@@ -133,10 +162,40 @@ def append_to_csv(product):
             
         writer.writerow(asdict(product))
 
+def llm_session(file):
+    data = []
+
+    with open(file, "r", encoding="utf-8") as f:
+        if ".csv" in file:
+            reader = csv.DictReader(f)
+            for row in reader:
+                data.append(row)
+        elif ".json" in file:
+            data = json.load(f)
+
+    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    chat = client.chats.create(model="gemini-3.1-flash-lite")
+    system_prompt = ""
+    developer_prompt = f"Here's the data: \n{data}"
+
+    with open("system_prompt.txt", 'r') as f:
+        system_prompt = f.read()
+
+    print("To finish chatting, press CTRL + C")
+    while True:
+        user_input = input('> ')
+        resp = chat.send_message(system_prompt + developer_prompt + user_input).text
+        print
+        for line in resp.split('\n'):
+            print(f"| {line}")
+        print
+
 
 def main():
     PAGES = 10
     data = []
+    usage_text = "Usage: python main.py [pages] [clear output file (yes/no)] [mode (json/csv)]"
+
     try:
         PAGES = int(sys.argv[1])
     except Exception:
@@ -150,15 +209,31 @@ def main():
         elif clear_mode == "no":
             clear_mode = False
         else:
-            tqdm.write(
-                "Usage: python main.py [pages] [clear products.csv (yes/no)]")
+            tqdm.write(usage_text)
     except Exception:
         tqdm.write(
-            f"Messing clear products.csv command line argument. Defaulting to no value")
+            f"Missing clear output file command line argument. Defaulting to no.")
         clear_mode = False
 
+    try:
+        file_mode = sys.argv[3].lower()
+
+        if file_mode == "json":
+            file = "data.json"
+        elif file_mode == "csv":
+            file = "products.csv"
+        else:
+            tqdm.write(usage_text)
+            return
+
+    except Exception:
+        tqdm.write(
+            "Missing file mode command line argument. Defaulting to csv."
+        )
+        file = "products.csv"
+
     if clear_mode:
-        with open("products.csv", "w") as f:
+        with open(file, "w") as f:
             f.write('')
 
     url = "https://hard.rozetka.com.ua/ua/monitors/c80089/page="
@@ -174,14 +249,20 @@ def main():
         for url in tqdm(urls, desc="Products"):
             html = get_html(url)
             product = parse_product_page(html, url)
-            append_to_csv(product)
+            if file == "data.json":
+                if append_to_json(product) == 1:
+                    tqdm.write("Invalid json format in data.json.")
+                    return
+            elif file == "products.csv":
+                append_to_csv(product)
+            
             data.append(product)
 
-    export_to_json(data)
+    llm_session(file)
 
 
 if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        pass
+        print()

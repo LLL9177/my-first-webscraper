@@ -56,6 +56,16 @@ There are 2 cli arguments:
 - Exports to JSON
 - Progress bars with tqdm
 - Configurable number of pages
+- You can ask some questions to AI right in the terminal after scraping
+
+## AI
+
+I'm using Gemini here. You can put whatever gemini model you wish (see .env.example).
+I actually did it for my Fiverr gig. But now I'm thinking of actually using this program because I can change the url whenever I want
+
+The system prompt lays in system_prompt.txt. So you can tweak if or create your own easily.
+The developer prompt is just `Here's the data: ...`. It's in the function `llm_session` if you with to change it.
 
 ## How it could be improved
-The only thing I could think of is doing the same to JSON file as I did to CSV file
+
+No ideas

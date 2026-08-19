@@ -1,1 +1,542 @@
-
+[
+  {
+    "url": "https://hard.rozetka.com.ua/ua/copy-samsung-ls27fg500eixua/p563378238/",
+    "name": "Монітор 27\" Samsung Odyssey G5 (LS27FG502EIXUA) -- QHD 2K / Fast IPS / 180Hz / 1 мс (GTG) / HDR10 / FreeSync Premium / G-Sync Compatible / Pivot / Black Equalizer",
+    "review_count": 315,
+    "in_stock": true,
+    "old_price": 11999,
+    "price": 9999,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls25hg400eixua/p608138570/",
+    "name": "Монітор 25\" Samsung Odyssey G4 LS25HG400 (LS25HG400EIXUA) -- IPS Full HD / 300Гц / 8-Bit / sRGB 99% / HDR10 / nVidia G-SYNC Compatible / AMD FreeSync Premium / Black Equalizer / Pivot",
+    "review_count": 0,
+    "in_stock": true,
+    "old_price": 8999,
+    "price": 8499,
+    "rating": null
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/lenovo-67d4gac3ua/p545761215/",
+    "name": "Монітор 24.5\" Lenovo Legion 25-10 (67D4GAC3UA) -- FHD IPS / 320Hz / 0.5 мс (MPRT) / sRGB 99% / NVIDIA G-SYNC Compatible / AMD FreeSync Premium / HDR10 Compliance / Pivot",
+    "review_count": 84,
+    "in_stock": true,
+    "old_price": 7999,
+    "price": 6999,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27fg502sixua/p555958707/",
+    "name": "Монітор 27\" Samsung Odyssey OLED G5 (LS27FG502SIXUA) -- 2K QHD QD-OLED / 0.03 мс (GtG) / 180Гц / DCI-P3 99% / HDR10 / AMD FreeSync / Samsung OLED Safeguard+",
+    "review_count": 20,
+    "in_stock": true,
+    "old_price": 25999,
+    "price": 20999,
+    "rating": 4.9
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-mag-274qpf-x32/p589806193/",
+    "name": "Монітор 27\" MSI MAG 274QPF X32 -- 2K QHD Rapid IPS / 320Hz / 0,5 мс GtG / 8-Bit + FRC / DCI-P3 97% / VESA DisplayHDR 400 / Adaptive-Sync / AI Vision",
+    "review_count": 3,
+    "in_stock": true,
+    "old_price": 12999,
+    "price": 10999,
+    "rating": 3.7
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/gigabyte-gs27fc/p397694295/",
+    "name": "Монітор 27\" Gigabyte GS27FC - FHD Super Speed VA / 1500R / 180Hz / 1ms / 8-Bit / sRGB 108% / FreeSync Premium Pro / Game Assist / Black eQualizer",
+    "review_count": 173,
+    "in_stock": true,
+    "old_price": 6999,
+    "price": 5799,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/asus_90lm06q0_b02370/p295802648/",
+    "name": "Монітор 27\" Asus ProArt Display PA278CV (90LM06Q1-B02370) Delta E< 2 / USB-C Power Delivery 65W / Adaptive-Sync",
+    "review_count": 68,
+    "in_stock": true,
+    "old_price": 15999,
+    "price": 12599,
+    "rating": 4.3
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27fg532eixua/p555971562/",
+    "name": "Монітор 27\" Samsung Odyssey G5 (LS27FG532EIXUA) -- QHD 2K / IPS / 200Hz / 1 мс (MPRT) / FreeSync Premium / Black Equalizer / Eye Saver Mode",
+    "review_count": 45,
+    "in_stock": true,
+    "old_price": 9999,
+    "price": 8899,
+    "rating": 4.7
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/lorgar-lrg-34mp1w180c-gy/p491821674/",
+    "name": "Монітор 34\" Lorgar UWQHD MiniLED 1ms VA 180Hz (LRG-34MP1W180C-GY)",
+    "review_count": 12,
+    "in_stock": true,
+    "old_price": 36999,
+    "price": 15999,
+    "rating": 3.9
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls24dg300eixci/p445915520/",
+    "name": "Монітор 24\" Samsung Odyssey G3 (LS24DG300EIXUA) -- FullHD / VA / 180Hz / 1 мс (MPRT) / HDR10 / AMD FreeSync / Pivot / Black Equalizer / 95% sRGB",
+    "review_count": 172,
+    "in_stock": true,
+    "old_price": 6499,
+    "price": 5099,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/asus-90lm0bm0-b01371/p531503654/",
+    "name": "Монітор 27\" ASUS TUF Gaming VG27AQL5A (90LM0BM0-B01371) -- 2К QHD / Fast IPS / 210Hz / 1ms(GTG) / 95% DCI-P3 / FreeSync Premium / G-Sync / Shadow Boost / Pivot / Speaker 2x2W",
+    "review_count": 64,
+    "in_stock": true,
+    "old_price": 11999,
+    "price": 9799,
+    "rating": 4.4
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umhx3ee401/p548894718/",
+    "name": "Монітор 27\" Acer Predator XB273KV4bmiiprx (UM.HX3EE.401) -- IPS / Dual Mode (4K 160Hz or FHD 320Hz) / 1 ms / DCI-P3 90% / 10 bit (8 bit + FRC) / G-SYNC Compatible / AMD FreeSync / HDR10 / Pivot / Speakers 2х2W",
+    "review_count": 1,
+    "in_stock": true,
+    "old_price": 14179,
+    "price": 11999,
+    "rating": 4.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/asus-90lm0as1-b01171/p487900979/",
+    "name": "Монітор 24.5\" Asus VA259HGA (90LM0AS1-B01171) -- FullHD IPS / 120Hz / 1 мс MPRT / Low Blue Light / 99 % sRGB / Adaptive-Sync / Speakers 2W",
+    "review_count": 44,
+    "in_stock": true,
+    "old_price": 4499,
+    "price": 4299,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls37d802uaixci/p558200808/",
+    "name": "Монітор 37\" Samsung ViewFinity S8 (LS37D802UAIXUA) -- 4K UHD VA / 5 мс (GtG) / sRGB 100% / HDR10 / Eye Saver / KVM Switch / Порт USB-C",
+    "review_count": 6,
+    "in_stock": true,
+    "old_price": 29999,
+    "price": 19999,
+    "rating": 3.4
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27hg610sixua/p580993651/",
+    "name": "Монітор 27\" Samsung Odyssey OLED G6 (LS27HG610SIXUA) -- Quantum Dot OLED QHD (2K) / 240Hz / 0.3 ms / 99% DCI-P3 / G-Sync /  FreeSync Premium / HDR10+ Gaming / PIVOT",
+    "review_count": 36,
+    "in_stock": false,
+    "old_price": 31999,
+    "price": 26999,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-mpg-274urf-qd/p436232693/",
+    "name": "Монітор 27\" MSI MPG 274URF QD -- Quantum Dot 4K UHD / Rapid IPS / 160Hz / 0.5ms(GtG / 8-Bit + FRC / DCI-P3 98% / AMD FreeSync Premium / G-SYNC Compatible / KVM / Type-C PD 65W",
+    "review_count": 86,
+    "in_stock": false,
+    "old_price": 21999,
+    "price": 19399,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls32dg800sixua/p558200784/",
+    "name": "Монітор 32\" Samsung Odyssey OLED G8 Silver (LS32DG800SZXUA) -- UHD OLED / 0.03 мс (GtG) / 240Гц / DCI 99% / HDR10+ Gaming / AMD FreeSync Premium Pro / G-SYNC / Samsung OLED Safeguard+ / Speaker 2x5W",
+    "review_count": 26,
+    "in_stock": true,
+    "old_price": 49999,
+    "price": 43999,
+    "rating": 4.2
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls34dg852sixua/p449011031/",
+    "name": "Монітор 34\" Samsung Odyssey OLED G8 Silver (LS34DG852SZXUA) -- QD OLED / 0.03 мс / 175Гц / 10-Bit / DCI P3 99.3% / HDR400 True Black / FreeSync Premium / G-SYNC Compatible",
+    "review_count": 56,
+    "in_stock": true,
+    "old_price": 41999,
+    "price": 36999,
+    "rating": 4.4
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umhe0eez01/p537248859/",
+    "name": "Монітор 27\" Acer Nitro ED270Zbmiipx Black (UM.HE0EE.Z01) -- FullHD VA / 280 Гц / 0,5ms (GTG) / 8 біт / AMD FreeSync Premium / HDR10 / Speaker 2x2W",
+    "review_count": 0,
+    "in_stock": true,
+    "old_price": null,
+    "price": 7649,
+    "rating": null
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-mag-245f-x24/p572587840/",
+    "name": "Монітор 23.8\" MSI MAG 245F X24 -- FullHD / Rapid IPS 240Hz / 0.5ms (GtG) / 8-Bit + FRC / DCI-P3 87% / HDR Ready / Adaptive-Sync / AI Vision",
+    "review_count": 12,
+    "in_stock": true,
+    "old_price": 6999,
+    "price": 5899,
+    "rating": 4.2
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls24d360gaixci/p445926830/",
+    "name": "Монітор 24\" Samsung Essential S3 (LS24D360GAIXUA)-- VA 1800R FullHD / 100Hz / 4 мс (GTG) / sRGB 95 % / Eye Saver Mode",
+    "review_count": 75,
+    "in_stock": true,
+    "old_price": 4499,
+    "price": 3699,
+    "rating": 4.7
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung_lc34g55twwixci/p271707421/",
+    "name": "Монітор 34\" Samsung Odyssey G5 C34G55T (LC34G55TWWIXUA) WQHD / VA 1000R Curved / 165Hz / 1ms / 8-Bit / DisplayHDR 10 / G-Sync Compatible / FreeSync Premium / Black eQualizer / Picture-by-Picture",
+    "review_count": 145,
+    "in_stock": true,
+    "old_price": 14999,
+    "price": 14099,
+    "rating": 4.1
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umhv1ee301/p391147500/",
+    "name": "Монітор 27\" Acer Nitro VG271UM3bmiipx (UM.HV1EE.301) 2K QHD IPS / 180Hz / 1 ms (GtG) / 8-Bit / HDR10 / FreeSync Premium",
+    "review_count": 161,
+    "in_stock": true,
+    "old_price": 10526,
+    "price": 7999,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/gigabyte-aorus-fo32u/p511235704/",
+    "name": "Монітор 31.5\" Gigabyte Aorus FO32U -- 3840x2160 (4K UltraHD) QD-OLED / 165 Гц / 0.03 мс GTG / 10 bit / DCI-P3 99% / DisplayHDR True Black 400 / KVM / Speaker 5Wx2 / Pivot",
+    "review_count": 1,
+    "in_stock": true,
+    "old_price": 39999,
+    "price": 34999,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27f320gaixci/p558200874/",
+    "name": "Монітор 27\" Samsung Essential S3 (LS27F320GAIXUA) -- IPS FHD / 120Hz / 5 (GTG) / Eye Saver Mode / Flicker Free",
+    "review_count": 3,
+    "in_stock": true,
+    "old_price": 5299,
+    "price": 4999,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27fg812sixci/p558200886/",
+    "name": "Монітор 27\" Samsung Odyssey OLED G8 G81SF Gaming Monitor (LS27FG812SIXUA) -- 4K QD-OLED / 0.03 мс (GtG) / 240Гц / DCI 99% / DisplayHDR TrueBlack 400 / AMD FreeSync Premium Pro / Samsung OLED Safeguard+ / PIVOT",
+    "review_count": 10,
+    "in_stock": true,
+    "old_price": 49999,
+    "price": 41999,
+    "rating": 4.2
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-mag-273qp-qd-oled-x24/p540994094/",
+    "name": "Монітор 26.5\" MSI MAG 273QP QD-OLED X24 -- QD-OLED QHD / 0,03 мс (GtG) / 240Гц / DCI P3 99% / DisplayHDR True Black 400 / Adaptive-Sync / Pivot / OLED Care 2.0",
+    "review_count": 76,
+    "in_stock": false,
+    "old_price": 29999,
+    "price": 24999,
+    "rating": 4.4
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls32cg550eixci/p411522462/",
+    "name": "Монітор 32\" Samsung Odyssey G5 S32CG550 (LS32CG550EIXUA) QHD 2K / VA 1000R / 165Hz / 1ms / HDR10 / FreeSync Premium / G-Sync Compatible / Low Input Lag / Black Equalizer",
+    "review_count": 187,
+    "in_stock": true,
+    "old_price": 10499,
+    "price": 9799,
+    "rating": 4.3
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/asus-90lm0cy1-b01971/p609371024/",
+    "name": "Монітор 26.5\" ASUS ROG Swift OLED PG27UCWM (90LM0CY1-B01971)",
+    "review_count": 0,
+    "in_stock": false,
+    "old_price": 57399,
+    "price": 49999,
+    "rating": null
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27c902paixua/p558200859/",
+    "name": "Монітор 27\" Samsung ViewFinity S9 5K S27C900 (LS27C902PAIXUA) 5K IPS / 10-Bit / 99% DCI-P3 / Delta E <2 / Slim Metal Design / Thunderbolt 4 90W / USB-C / mini DP / AirPlay / Smart TV / Wi-Fi / Slimfit Camera",
+    "review_count": 13,
+    "in_stock": true,
+    "old_price": 49999,
+    "price": 36999,
+    "rating": 3.4
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/hp-ch0r2aa/p598528216/",
+    "name": "Монітор 27.63\" HP Omen OLED 27q (CH0R2AA) -- 2K QHD QD-OLED / 240 Гц / 0.03 мс GTG / 10 bit / DCI-P3 99% / G-SYNC / Pivot",
+    "review_count": 0,
+    "in_stock": false,
+    "old_price": 24129,
+    "price": 19999,
+    "rating": null
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27cg550eixci/p412096140/",
+    "name": "Монітор 27\" Samsung Odyssey G5 S27CG550 Black (LS27CG550EIXUA) -- QHD 2K / VA 1000R / 165Hz / 1ms(MPRT) / HDR10 / FreeSync Premium / Low Input Lag / Black Equalizer",
+    "review_count": 161,
+    "in_stock": true,
+    "old_price": 9499,
+    "price": 7999,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls32fm902sixua/p549354774/",
+    "name": "Монітор 32\" Samsung Smart M9 OLED (LS32FM902SZXUA) -- 4K QD-OLED / 0.03 мс (GtG) / 165Гц / sRGB 99% / DisplayHDR TrueBlack 400 / AMD FreeSync Premium Pro / Smart TV / WiFi&BT / USB HUB / Speaker 10W",
+    "review_count": 6,
+    "in_stock": true,
+    "old_price": 54999,
+    "price": 43999,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27fg706eixua/p555992739/",
+    "name": "Монітор 27\" Samsung Odyssey G7 (LS27FG706EIXUA) -- 4K UHD IPS 180 Гц / 1ms(GTG) / Dual Mode / HDR10+ Gaming / sRGB 99% / AMD FreeSync Premium / NVIDIA G-Sync Compatible / Pivot",
+    "review_count": 10,
+    "in_stock": true,
+    "old_price": 22999,
+    "price": 20999,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/asus-90lm0bn0-b01371/p573918085/",
+    "name": "Монітор 27\" ASUS TUF Gaming VG27AQ5A (90LM0BN0-B01371) -- 2К QHD / Fast IPS / 210Hz / 1ms(GTG) / 95% DCI-P3 / HDR10 / FreeSync Premium / G-Sync / Shadow Boost / вбудовані динаміки",
+    "review_count": 19,
+    "in_stock": true,
+    "old_price": 11999,
+    "price": 8899,
+    "rating": 4.2
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/lg-27us500-wadrz/p471993674/",
+    "name": "Монітор 27\" LG UltraFine 27US500-W",
+    "review_count": 12,
+    "in_stock": true,
+    "old_price": 8999,
+    "price": 8599,
+    "rating": 3.7
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27fg606eixua/p555983040/",
+    "name": "Монітор 27\" Samsung Odyssey G6 G60F (LS27FG606EIXUA) --  2K QHD IPS / 350Hz / 1 мс (GtG) / sRGB 99% / VESA DisplayHDR 400 / AMD FreeSync Premium / NVIDIA G-Sync Compatible / Black Equalizer",
+    "review_count": 7,
+    "in_stock": true,
+    "old_price": 17999,
+    "price": 16999,
+    "rating": 4.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-mag-255xf/p486800794/",
+    "name": "Монітор 24.5\" MSI MAG 255XF -- Rapid IPS FullHD / 300Hz / 0,5 мс GtG / 8-Bit + FRC / FreeSync Premium / GameFast Input / AI Vision / HDR Ready / sRGB 120%",
+    "review_count": 12,
+    "in_stock": true,
+    "old_price": 8999,
+    "price": 7999,
+    "rating": 3.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-um-qx0ee-012/p597182044/",
+    "name": "Монітор 23.8\" Acer Nitro KG24F (UM.QX0EE.012)",
+    "review_count": 2,
+    "in_stock": true,
+    "old_price": 3519,
+    "price": 3299,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27hg802sixua/p599783503/",
+    "name": "Монітор 27\" Samsung Odyssey Gaming G80SH (LS27HG802SIXUA) -- 4K QD-OLED / 0.03 мс (GtG) / 240Гц / DCI 99% / DisplayHDR TrueBlack 400 / AMD FreeSync Premium Pro / Samsung OLED Safeguard+ / PIVOT / USB-C (98W)",
+    "review_count": 0,
+    "in_stock": true,
+    "old_price": null,
+    "price": 42999,
+    "rating": null
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27d390gaixci/p558200871/",
+    "name": "Монітор 27\" Samsung Essential S3 (LS27D390GAIXUA) -- VA 1800R FullHD / 100Hz / 4 мс (GTG) / sRGB 95 % / Eye Saver Mode",
+    "review_count": 10,
+    "in_stock": true,
+    "old_price": 5299,
+    "price": 5099,
+    "rating": 4.8
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/gigabyte-g27q20/p570888538/",
+    "name": "Монітор 27\" Gigabyte G27Q20 Gaming Monitor",
+    "review_count": 6,
+    "in_stock": false,
+    "old_price": null,
+    "price": 8399,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls34c650uaixci/p558200805/",
+    "name": "Монітор 34\" Samsung ViewFinity S6 S34C650 (LS34C650UAIXUA) Ultra WQHD / VA 1000R / 100Hz / 8-Bit + FRC / HDR10 / USB-C 90W Power Delivery / LAN / Speaker 5W",
+    "review_count": 37,
+    "in_stock": true,
+    "old_price": 16999,
+    "price": 16599,
+    "rating": 4.2
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/prologix-g2525hu/p570976807/",
+    "name": "Монітор 24.5\" Prologix Gaming G2525HU",
+    "review_count": 5,
+    "in_stock": false,
+    "old_price": 4599,
+    "price": 4199,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-pro-mp243w-e14/p592899088/",
+    "name": "Монітор 23.8\" MSI PRO MP243W E14",
+    "review_count": 2,
+    "in_stock": true,
+    "old_price": null,
+    "price": 3999,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/xiaomi-1002336/p404512143/",
+    "name": "Монітор 21.5\" Xiaomi Monitor A22i (ELA5230EU) (1002336)",
+    "review_count": 14,
+    "in_stock": true,
+    "old_price": 3599,
+    "price": 2999,
+    "rating": 4.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/asus-90lm0be0-b01171/p526661844/",
+    "name": "Монітор 27\" ASUS ROG Strix XG27ACMS (90LM0BE0-B01171)",
+    "review_count": 6,
+    "in_stock": true,
+    "old_price": 20999,
+    "price": 18299,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/samsung-ls27hg400eixua/p591251479/",
+    "name": "Монітор 27\" Samsung Odyssey G4 (LS27HG400EIXUA) -- IPS Full HD / 300Гц / 1 мс (GTG) / 8-Bit / sRGB 99% / HDR10 / nVidia G-SYNC Compatible / AMD FreeSync Premium / Black Equalizer / Pivot",
+    "review_count": 120,
+    "in_stock": false,
+    "old_price": 9999,
+    "price": 8799,
+    "rating": 4.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/gigabyte-gs27qc/p397698993/",
+    "name": "Монітор 27\" Gigabyte GS27QC А (GS27QC) Black",
+    "review_count": 30,
+    "in_stock": true,
+    "old_price": null,
+    "price": 8299,
+    "rating": 4.7
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umxp1eee01/p562709853/",
+    "name": "Монітор 18.5\" Acer PM191QEbmiuux Black (UM.XP1EE.E01)",
+    "review_count": 14,
+    "in_stock": true,
+    "old_price": null,
+    "price": 5779,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/dell-210-bkvb/p429410111/",
+    "name": "Монітор 27\" Dell U2724D (210-BKVB)",
+    "review_count": 17,
+    "in_stock": true,
+    "old_price": null,
+    "price": 19734,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/gigabyte-gs24f14/p567971953/",
+    "name": "Монітор 23.8\" Gigabyte GS24F14 Gaming Monitor -- FHD IPS / 144Гц / 1ms MPRT / sRGB 104% / FreeSync / Game Assist / Black eQualizer",
+    "review_count": 6,
+    "in_stock": true,
+    "old_price": 4399,
+    "price": 4199,
+    "rating": 3.8
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/msi-mag-255pxf/p486795484/",
+    "name": "Монітор 24.5\" MSI MAG 255PXF -- Rapid IPS FullHD / 300Hz / 0,5 мс GtG / 8-Bit + FRC / FreeSync Premium / AI Vision / HDR Ready / sRGB 120% / Pivot / Built-In Speaker 2W",
+    "review_count": 8,
+    "in_stock": true,
+    "old_price": null,
+    "price": 8799,
+    "rating": 3.5
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/xiaomi-ela6415eu/p592382803/",
+    "name": "Монітор 24\" Xiaomi Monitor A24i 2026 (ELA6416EU) (1185165)",
+    "review_count": 0,
+    "in_stock": true,
+    "old_price": 4199,
+    "price": 3799,
+    "rating": null
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umhx0ee109/p554296314/",
+    "name": "Монітор 27\" Acer Nitro XF273UX1bmiiprx (UM.HX0EE.109)",
+    "review_count": 8,
+    "in_stock": true,
+    "old_price": 8999,
+    "price": 8769,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umws2eee01/p398834547/",
+    "name": "Монітор 21.5\" Acer SA222QEbi (UM.WS2EE.E01) FHD IPS / 100Hz / 1ms VBR / 6-Bbit+FRC / sRGB 99% / HDMI / VGA",
+    "review_count": 15,
+    "in_stock": true,
+    "old_price": null,
+    "price": 3599,
+    "rating": 4.4
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umhx3ee329/p510949359/",
+    "name": "Монітор 27\" Acer Nitro XF273UF3bmiiprx (UM.HX3EE.329) -- 2K QHD IPS / 320Hz / 0.5ms (GtG) / 8bit+FRC / 99% sRGB / HDR10 / FreeSync Premium / Pivot",
+    "review_count": 10,
+    "in_stock": true,
+    "old_price": null,
+    "price": 10999,
+    "rating": 4.6
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/aoc_22b2h_eu/p279651928/",
+    "name": "Монітор 21.5\" AOC 22B2H Black (22B2H/EU) -- FullHD VA / 75 Гц / 4 мс GtG / HDMI 1.4 / Low Blue Light",
+    "review_count": 15,
+    "in_stock": true,
+    "old_price": null,
+    "price": 3099,
+    "rating": 4.2
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/acer-umhq1ee605/p570887905/",
+    "name": "Монітор 27\" Acer Nitro QG271P6bip (UM.HQ1EE.605)",
+    "review_count": 1,
+    "in_stock": true,
+    "old_price": null,
+    "price": 5179,
+    "rating": 5.0
+  },
+  {
+    "url": "https://hard.rozetka.com.ua/ua/aoc-q24g4re/p516971969/",
+    "name": "Монітор 23.8\" AOC Q24G4RE -- 2K QHD Fast IPS / 180 Гц / 1ms (GTG) / 10 біт / NVIDIA G-SYNC / HDR 10",
+    "review_count": 7,
+    "in_stock": true,
+    "old_price": 7499,
+    "price": 6999,
+    "rating": 4.2
+  }
+]
